@@ -30,7 +30,7 @@ Build a Linear Regression model that can accurately estimate YouTube ad revenue 
 **Model Evaluation**: Use appropriate regression metrics to evaluate performance.
 
 **Streamlit App Development**: Build a basic interactive app to demonstrate predictions and visualizations.
-
+![Alt_text](https://github.com/ShrutiKinalekar/Content-Monetization-Modeler/blob/main/Ytube_StremlitAppPage1.png)
 
 **Streamlit App Interface**
 
