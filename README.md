@@ -1,5 +1,5 @@
 
-![Alt_text](https://github.com/ShrutiKinalekar/OLA_Ride_Insights_Python_MySQL_Streamlit_PowerBI/blob/main/ola.png)
+![Alt_text](https://github.com/ShrutiKinalekar/Content-Monetization-Modeler/blob/main/yt_content_monetization.jpg)
 # Content-Monetization-Modeler - Python-MachineLearning-Scikitlearn-Streamlit
 As video creators and media companies increasingly rely on platforms like YouTube for income, predicting potential ad revenue becomes essential for business planning and content strategy. On this Platform Linear Regression model is used to accurately estimate ad revenue for Individual videos based on various performance and contextual features.
 
@@ -32,3 +32,6 @@ Build a Linear Regression model that can accurately estimate YouTube ad revenue 
 **Streamlit App Development**: Build a basic interactive app to demonstrate predictions and visualizations.
 
 
+**Streamlit App Interface**
+
+![Alt_text](
