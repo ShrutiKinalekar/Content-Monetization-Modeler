@@ -38,4 +38,4 @@ Build a Linear Regression model that can accurately estimate YouTube ad revenue 
 
 **Visualization**
 
-![Alt_text](
+![Alt_text](https://github.com/ShrutiKinalekar/Content-Monetization-Modeler/blob/main/Ytube_StremlitAppPage3.png)
